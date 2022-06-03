@@ -1,0 +1,4 @@
+- 👋 Olá,Eu Me Chamo @jvps201274
+- 👍 Meu email para contato é pereira.silva.joao2002@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a novas linguagens
+- 🌱 Eu estou aprendendo a programar recentimente linguagem javaScript e Scratch
